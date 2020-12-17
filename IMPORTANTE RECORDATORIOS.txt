@@ -1,0 +1,16 @@
+Antes de abrir el archivo de netbeans:
+
+
+-link de descarga XAMPP para el manejo de la base de datos
+ con php mysql
+
+
+https://www.apachefriends.org/es/index.html
+
+-si hay problemas con la importación deL archivo .sql a la base de datos, con este este video se puede solucionar
+
+ 
+https://www.youtube.com/watch?v=_qcs5pbCTqw&t=27s
+
+-Agregar todas las librerías contenidas en la carpeta del proyecto//src//librerías,
+ a netbeans para el correcto funcionamiento del programa
